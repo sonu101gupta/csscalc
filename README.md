@@ -1,0 +1,1 @@
+# this is the basic information about the things what I do in the case of the things which are not only the most precious but also the mo
