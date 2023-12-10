@@ -1,1 +1,4 @@
-# this is the basic information about the things what I do in the case of the things which are not only the most precious but also the mo
+#Overview of the project
+1. JS for writing the logic
+2. Css for designing
+3. HTMK for Text and basic structure
